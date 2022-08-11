@@ -13,4 +13,4 @@ Due to the chaos and volume of the original data, a ruled-based disambiguation m
 - Combine multidimensional information to judge the similarity.
 - Frequency based screening to find potential institution name pair.
 - Combine all potential name in one set.
-> Specific code is in the ‘Disambiguation’ folder of the Repository
+> Specific code and part of the data are in the ‘Disambiguation’ folder of the Repository
